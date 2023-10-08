@@ -1,7 +1,7 @@
 # Calculator
 # Features
 * This program is written in C++.
-* This program can only be used in Terminal or a Command prompt application.
+* This program can only be used in Terminal or a Commandline application.
 * This provides an input field like to enter your first number, second number and to select what arithmetic operation to use like "+, -, * or /.
 
 # Compiling the source code
