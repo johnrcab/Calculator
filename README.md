@@ -1,11 +1,13 @@
 # Calculator
 # Features
 * This program is written in C++.
-* This program can only be used in Terminal or a Commandline application.
 * This provides an input field like to enter your first number, second number and to select what arithmetic operation to use like "+, -, * or /.
 
+# Note
+* That this program can only be executed or used in the Terminal or any command-line application or environment.
+
 # Compiling the source code
-* This program can be compiled with the **`g++`** command (e.g. **`g++ calculator.cpp -o calculator.exe`**)
+* This program can be compiled with the **`g++`** command (e.g. **`g++ calculator.cpp -o calculator.exe`** or **`g++ calculator.cpp -o calculator.out`**)
 
 # Executing the compiled source code
 * To run or execute the compiled source code you need to run the example commands below:
